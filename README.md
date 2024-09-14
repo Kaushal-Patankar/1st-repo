@@ -1,2 +1,2 @@
 # 1st-repo
-This is my first code on github(for learning).
+This is my first code on Github(for learning).
